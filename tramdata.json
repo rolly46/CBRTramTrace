@@ -1,0 +1,170 @@
+{
+  "8100": {
+    "name": "Gungahlin Place",
+    "direction": "East",
+    "id": "GungahlinEast",
+    "trampresent": "False"
+  },
+  "8101": {
+    "name": "Gungahlin Place",
+    "direction": "West",
+    "id": "GungahlinWest",
+    "trampresent": "False"
+  },
+  "8104": {
+    "name": "Manning Clark North",
+    "direction": "East",
+    "id": "ManningEast",
+    "trampresent": "False"
+  },
+  "8105": {
+    "name": "Manning Clark North",
+    "direction": "West",
+    "id": "ManningWest",
+    "trampresent": "False"
+  },
+  "8106": {
+    "name": "Mapleton Avenue",
+    "direction": "East",
+    "id": "MapletonEast",
+    "trampresent": "False"
+  },
+  "8107": {
+    "name": "Mapleton Avenue",
+    "direction": "West",
+    "id": "MapletonWest",
+    "trampresent": "False"
+  },
+  "8108": {
+    "name": "Nullarbor Avenue",
+    "direction": "East",
+    "id": "NullarborEast",
+    "trampresent": "False"
+  },
+  "8109": {
+    "name": "Nullarbor Avenue",
+    "direction": "West",
+    "id": "NullarborWest",
+    "trampresent": "False"
+  },
+  "8110": {
+    "name": "Well Station Drive",
+    "direction": "East",
+    "id": "WellEast",
+    "trampresent": "False"
+  },
+  "8111": {
+    "name": "Well Station Drive",
+    "direction": "West",
+    "id": "WellWest",
+    "trampresent": "False"
+  },
+  "8112": {
+    "name": "Sandford Street",
+    "direction": "East",
+    "id": "StanfordEast",
+    "trampresent": "False"
+  },
+  "8113": {
+    "name": "Sandford Street",
+    "direction": "West",
+    "id": "SandfordWest",
+    "trampresent": "False"
+  },
+  "8114": {
+    "name": "EPIC and Racecourse",
+    "direction": "East",
+    "id": "EpicEast",
+    "trampresent": "False"
+  },
+  "8115": {
+    "name": "EPIC and Racecourse",
+    "direction": "West",
+    "id": "EpicWest",
+    "trampresent": "False"
+  },
+  "8116": {
+    "name": "Phillip Avenue",
+    "direction": "East",
+    "id": "PhillipEast",
+    "trampresent": "False"
+  },
+  "8117": {
+    "name": "Phillip Avenue",
+    "direction": "West",
+    "id": "PhillipWest",
+    "trampresent": "False"
+  },
+  "8118": {
+    "name": "Swinden Street",
+    "direction": "East",
+    "id": "SwindenEast",
+    "trampresent": "False"
+  },
+  "8119": {
+    "name": "Swinden Street",
+    "direction": "West",
+    "id": "SwindenWest",
+    "trampresent": "False"
+  },
+  "8120": {
+    "name": "Dickson Interchange",
+    "direction": "East",
+    "id": "DicksonEast",
+    "trampresent": "False"
+  },
+  "8121": {
+    "name": "Dickson Interchange",
+    "direction": "West",
+    "id": "DicksonWest",
+    "trampresent": "False"
+  },
+  "8122": {
+    "name": "Macarthur Avenue",
+    "direction": "East",
+    "id": "MacarthurEast",
+    "trampresent": "False"
+  },
+  "8123": {
+    "name": "Macarthur Avenue",
+    "direction": "West",
+    "id": "MacarthurWest",
+    "trampresent": "False"
+  },
+  "8124": {
+    "name": "Ipima Street",
+    "direction": "East",
+    "id": "IpimaEast",
+    "trampresent": "False"
+  },
+  "8125": {
+    "name": "Ipima Street",
+    "direction": "West",
+    "id": "IpimaWest",
+    "trampresent": "False"
+  },
+  "8126": {
+    "name": "Elouera Street",
+    "direction": "East",
+    "id": "EloueraEast",
+    "trampresent": "False"
+  },
+  "8127": {
+    "name": "Elouera Street",
+    "direction": "West",
+    "id": "EloueraWest",
+    "trampresent": "False"
+  },
+  "8128": {
+    "name": "Alinga Street",
+    "direction": "East",
+    "id": "AlingaEast",
+    "trampresent": "False"
+  },
+  "8129": {
+    "name": "Alinga Street",
+    "direction": "West",
+    "id": "AlingaWest",
+    "trampresent": "False"
+  }
+}
